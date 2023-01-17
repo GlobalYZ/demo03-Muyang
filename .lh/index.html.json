@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 3,
+            "activePatchIndex": 4,
             "patches": [
                 {
                     "date": 1673979948325,
@@ -20,6 +20,10 @@
                 {
                     "date": 1673980000329,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -9,8 +9,8 @@\n </head>\r\n \r\n <body>\r\n     <h1>This is the demo03 landing page.</h1>\r\n-    <button type=\"button\" onclick=\"window.location.href='elmo.html'\"> Go to Elmo's Page!</button>\r\n+    <button type=\"button\" onclick=\"window.location.href='Muyang.html'\"> Go to Muyang's Page!</button>\r\n </body>\r\n \r\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1673981027948,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,14 +1,6 @@\n-<!DOCTYPE html>\r\n-<html lang=\"en\">\r\n+<html>\r\n \r\n-<head>\r\n-    <meta charset=\"UTF-8\">\r\n-    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n-    <title>Document</title>\r\n-</head>\r\n-\r\n <body>\r\n     <h1>This is the demo03 landing page.</h1>\r\n     <button type=\"button\" onclick=\"window.location.href='Muyang.html'\"> Go to Muyang's Page!</button>\r\n </body>\r\n"
                 }
             ],
             "date": 1673979948325,
